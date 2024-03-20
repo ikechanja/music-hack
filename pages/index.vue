@@ -136,6 +136,8 @@ import { gsap, Power2 } from "gsap";
                         中学生の頃から楽曲制作を始めている。
                         テレビ番組やYouTuberの楽曲制作で音楽作家活動をしたのち現在は、様々なシンガーに楽曲提供をしている。
                     </p>
+                    <p>Xのリンクは<a class="underline" href="https://twitter.com/ikechan_music" target="_blank" rel="noopener noreferrer">こちら</a></p>
+                    <p>オフィシャルブログは<a class="underline" href="https://ikechan.pages.dev/" target="_blank" rel="noopener noreferrer">こちら</a></p>
                 </div>
             </div>
         </div>
@@ -151,6 +153,8 @@ import { gsap, Power2 } from "gsap";
                         作ってはインターネットに公開を繰り返して10年以上制作を続けている。
                         現在はVRChatでの活動がメインでライブやDTMコミュニティー運営などを行っている。
                     </p>
+                    <p>Xのリンクは<a class="underline" href="https://twitter.com/yoxtellar" target="_blank" rel="noopener noreferrer">こちら</a></p>
+                    <p>ポートフォリオは<a class="underline" href="https://yoxtellar.myportfolio.com/" target="_blank" rel="noopener noreferrer">こちら</a></p>
                 </div>
             </div>
         </div>
